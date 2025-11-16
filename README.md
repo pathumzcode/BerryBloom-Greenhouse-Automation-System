@@ -69,7 +69,7 @@ This project uses the following Arduino libraries:
 
 For detailed project documentation, circuit diagrams, component datasheets, and additional resources, visit our comprehensive documentation:
 
-📄 **[View Full Documentation on Google Drive](https://drive.google.com/your-documentation-link-here)**
+📄 **[View Full Documentation on Google Drive](https://drive.google.com/drive/folders/1grfRQOsG-zEtpo7SXjxoQAr0jkhfoiR8?usp=drive_link)**
 
 ---
 
