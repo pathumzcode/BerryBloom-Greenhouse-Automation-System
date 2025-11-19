@@ -7,13 +7,13 @@ LiquidCrystal_I2C humLCD(0x26, 16, 2);   // Humidity display
 LiquidCrystal_I2C soilLCD(0x27, 16, 2);  // Soil moisture display
 
 //Define sensor pins
-int soilSensorPin = A0;  // Soil moisture sensor analog pin
-int dht22SensorPin = 3;  // DHT22 sensor digital pin
+int soilSensorPin = A0; // Soil moisture sensor analog pin
+int dht22SensorPin = 3; // DHT22 sensor digital pin
 
 //Define output pins
-int soilRelayPin = 6;  //S Relay control digital pin
-int humRelayPin = 11;  //H Relay control digital pin
-int tempFanPin = 8;    //T Relay control digital pin
+int soilRelayPin = 6; //S Relay control digital pin
+int humRelayPin = 11; //H Relay control digital pin
+int tempFanPin = 8; //T Relay control digital pin
 
 //Define sensor values and standerd values
 int moistureValue = 0;       // Variable to store sensor value
