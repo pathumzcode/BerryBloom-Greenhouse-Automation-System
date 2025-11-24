@@ -155,7 +155,7 @@ For questions or suggestions, feel free to reach out:
 
 📌 **Check out our LinkedIn post about this project:**
 
-[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/your-post-link-here)
+[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/pathumzin_final-output-activity-7398843217208709120-c8tW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFs_n0gBot5aibZp5UZhjc8mPBjPkYykzsk)
 
 </div>
 
